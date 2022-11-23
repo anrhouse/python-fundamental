@@ -1,4 +1,6 @@
 n = int(input("Masukkan jumlah data : "))
+print("=======================================")
+
 nim = []
 nama = []
 nt1 = []
